@@ -68,6 +68,10 @@
 		{
 			"Name": "RemoteControlProtocolDMX",
 			"Enabled": true
+		},
+		{
+			"Name": "DisplayClusterLaunch",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
